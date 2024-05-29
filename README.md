@@ -4,6 +4,7 @@
 ![Preview](preview/preview.png)
 <div align="center">
   <h3 align="center">A Zoom Clone</h3>
+  <a href="https://zoom-clone-snowy-eight.vercel.app/">View Live Demo</a>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
