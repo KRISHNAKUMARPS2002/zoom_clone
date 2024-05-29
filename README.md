@@ -1,7 +1,7 @@
 
 # Preview
 
-![Preview](public/preview.png)
+![Preview](zoom_clone/preview/preview.png)
 <div align="center">
   <h3 align="center">A Zoom Clone</h3>
 </div>
