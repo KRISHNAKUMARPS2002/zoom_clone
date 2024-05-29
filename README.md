@@ -1,9 +1,8 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/R8CIO1DZ2b8" target="_blank">
-            <img src="C:\Users\krish\OneDrive\Desktop\zoom_clone\preview\preview.png" alt="Project Banner">
+  
+            <img src="zoom_clone\preview\preview.png" alt="Project Banner">
 
-    </a>
   
   <br />
 
