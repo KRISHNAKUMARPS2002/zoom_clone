@@ -1,7 +1,8 @@
+
+# Preview
+
+![Preview](public/preview.png)
 <div align="center">
-  <br />
-  <img src="zoom_clone/preview/preview.png" alt="Project Banner">
-  <br />
   <h3 align="center">A Zoom Clone</h3>
 </div>
 
